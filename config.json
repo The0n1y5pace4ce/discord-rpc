@@ -1,0 +1,13 @@
+{
+    "ClientID": "", //application id
+    "LargeImage": "", //name of the image wanted to be large 
+    "LargeImageText": "", //text wanted to be shown when hovering over the large image
+    "SmallImage": "", //name of the image wanted to be small 
+    "SmallImageText": "", //text wanted to be shown when hovering over the small image
+    "Button1": "", //name of button one
+    "Url1": "", //url of button one
+    "Button2": "", //name of button two
+    "Url2": "", //url of button two
+    "State": "", //title of text
+    "Details": "" //description of text
+}
